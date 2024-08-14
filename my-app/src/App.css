@@ -1,1 +1,4 @@
-
+*{
+    /*background-color: rgb(241, 235, 235);*/
+    background: linear-gradient(to right ,50px,10px,#1f11e4);
+}
